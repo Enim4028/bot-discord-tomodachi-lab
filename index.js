@@ -1,9 +1,11 @@
 
 const Client = require("discord.js");
-const client = new Client.Client();
+const Client = new Client.Client();
 
-
+client.login(process.env.GOOGLE-KEY);
 client.login(process.env.Tasse);
+
+const credenziali= process.env.GOOGLE-KEY;
 
 client.once('ready', () => {
 
