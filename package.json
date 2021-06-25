@@ -1,0 +1,15 @@
+{
+  "name": "defbot",
+  "version": "1.0.0",
+  "description": "Bot Discord per il canale della Tomodachi Lab",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tomodachi Lab  Dev Team",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "googleapis": "^78.0.0"
+  }
+}
